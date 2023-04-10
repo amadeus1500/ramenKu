@@ -138,7 +138,7 @@ font-size: 12px;
     margin-left: auto;
 }
 .cake{
-    background-image: url("/ramenimgs/Rectangle\ 15.png");
+    background-image: url("../ramenimgs/Rectangle\ 15.png");
     height: 454px;
     margin-top: 200px;
 }
